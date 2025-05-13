@@ -1,13 +1,13 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" width="50%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" width="45%" /> </br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ovo307000&theme=one_dark_pro&hide_border=false" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" /> </br>
 </div>
 
 <!-- Trophy -->
 <div align="center">
-    <p>## 🏆 GitHub Trophies</p>
+    <p>🏆 GitHub Trophies</p>
     <img src="https://github-profile-trophy.vercel.app/?username=Ovo307000&theme=onedark&no-frame=true&row=1&column=7&margin-w=5" width="100%" />
 </div>
 
