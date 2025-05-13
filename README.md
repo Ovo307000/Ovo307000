@@ -1,8 +1,8 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" width="45%" /> </br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ovo307000&theme=one_dark_pro&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" width="40%" /> </br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ovo307000&theme=one_dark_pro&hide_border=false" width="80%" />
 </div>
 
 <!-- Trophy -->
