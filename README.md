@@ -83,9 +83,9 @@
 ![snake gif](https://github.com/Ovo307000/Ovo307000/blob/output/github-snake-dark.svg)
 </div>
 
+# 💬 Random Quote 📜
 
 <!-- Random Quote -->
 <div align="center">
-    <p>💬 Random Quote</p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="100%"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="94%"/>
 </div>
