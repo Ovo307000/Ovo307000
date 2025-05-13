@@ -6,9 +6,8 @@
 </div>
 
 <!-- Tech Stack -->
+# 💻 Technology Stack 🛠️
 <div align="center">
-
-## 💻 Technology Stack 🛠️
 
   <!-- Programming Languages & Scripting -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,8 +37,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Nacos](https://img.shields.io/badge/Nacos-%23267DF7.svg?style=for-the-badge&logoColor=white)
-![MyBatisPlus](https://img.shields.io/badge/MyBatisPlus-%23527FFF.svg?style=for-the-badge&logoColor=white)
+![Nacos](https://img.shields.io/badge/Nacos-%232FC29B.svg?style=for-the-badge&logo=nacos&logoColor=white)
+![MyBatisPlus](https://img.shields.io/badge/MyBatisPlus-%23AA763A.svg?style=for-the-badge&logo=mybatis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
   <!-- Databases & Storage -->
@@ -48,13 +47,13 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-%23C72C48.svg?style=for-the-badge&logo=minio&logoColor=white)
-![Redisson](https://img.shields.io/badge/Redisson-%23D40000.svg?style=for-the-badge&logoColor=white)
+![Redisson](https://img.shields.io/badge/Redisson-%23D40000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
   <!-- Web Servers, Build Tools & API -->
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Knife4j](https://img.shields.io/badge/Knife4j-%23313131.svg?style=for-the-badge&logoColor=white)
+![Knife4j](https://img.shields.io/badge/Knife4j-%23313131.svg?style=for-the-badge&logo=swagger&logoColor=white) <!-- 使用 Swagger 图标作为近似 -->
 
   <!-- DevOps & Tools -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -79,9 +78,6 @@
 
 <!-- Random Quote -->
 <div align="center">
-  
-## 💬 Random Quote
-
+<p>## 💬 Random Quote</p>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="100%"/>
-
 </div>
