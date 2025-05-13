@@ -8,7 +8,7 @@
 
 <!-- Trophy -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ovo307000&theme=onedark&no-frame=true&row=1&column=7&margin-w=5" width="94%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ovo307000&theme=onedark&no-frame=true&row=1&column=7&margin-w=5" width="94%" alt="Trophy" />
 </div>
 
 <!-- Tech Stack -->
