@@ -1,8 +1,8 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ovo307000&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" width="55%" /> </br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ovo307000&theme=one_dark_pro&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="36%" /> </br>
 </div>
 
 <!-- Tech Stack -->
@@ -36,8 +36,12 @@
 ![snake gif](https://github.com/Ovo307000/Ovo307000/blob/output/github-snake-dark.svg)
 </div>
 
-<!-- Visit Counter -->
-<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Ovo307000&icon=10&color=6)](https://visitcount.itsvg.in)
+<!-- Random Quote -->
+<div align="center">
+  
+## 💬 Random Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="100%"/>
+
 </div>
