@@ -5,8 +5,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="36%" /> </br>
 </div>
 
+<!-- Trophy -->
+<div align="center">
+    <p>## 🏆 GitHub Trophies</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ovo307000&theme=onedark&no-frame=true&row=1&column=7&margin-w=5" width="100%" />
+</div>
+
 <!-- Tech Stack -->
+
 # 💻 Technology Stack 🛠️
+
 <div align="center">
 
   <!-- Programming Languages & Scripting -->
