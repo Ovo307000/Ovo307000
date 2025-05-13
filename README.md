@@ -86,6 +86,6 @@
 
 <!-- Random Quote -->
 <div align="center">
-    <p>## 💬 Random Quote</p>
+    <p>💬 Random Quote</p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" width="100%"/>
 </div>
