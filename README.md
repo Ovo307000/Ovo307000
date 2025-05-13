@@ -1,9 +1,9 @@
 <!-- Stats -->
 <div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Ovo307000&theme=one_dark_pro&hide_border=false" width="100%" alt=" Ovo307000's Streak Stats" />
-    <br>  
-    <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" width="50%" alt="Ovo307000's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" alt=" Most Used Languages" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Ovo307000&theme=one_dark_pro&hide_border=false" width="94%" height="20%" alt=" Ovo307000's Streak Stats" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" width="52%" height="80%" alt="Ovo307000's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovo307000&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" height="50%" alt=" Most Used Languages" />
 </div>
 
 <!-- Trophy -->
